@@ -28,6 +28,11 @@ public class Main {
     PascalNamingConvention for classes
     camelNamingConvention for methods
 
+    compilation and execution happens whenever code is run in intellij
+    ls is used to know where you at in the terminal
+    java runtime environment convert byte code into native
+    code via java virtual machine
+    cd is used to change to the preferred file we want to be
 
          * */
         System.out.println("Hello World");
