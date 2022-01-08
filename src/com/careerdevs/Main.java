@@ -43,7 +43,7 @@ public class Main {
     Micro edition
     Java card
     Java has 9 million developers, 3 billion phones, 120 million tv sets
-    avaeage salary is $101,929
+    average salary is $101,929
          * */
         System.out.println("Hello World");
     }
