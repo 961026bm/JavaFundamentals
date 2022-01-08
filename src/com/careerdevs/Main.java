@@ -34,6 +34,16 @@ public class Main {
     code via java virtual machine
     cd is used to change to the preferred file we want to be
 
+    Interesting things about Java
+    It was developed by James Gosling in 1995
+    it was originally called OAK after the oak tree in front of Gosling office
+    There four editions of java namely
+    Standard edition
+    Enterprise edition
+    Micro edition
+    Java card
+    Java has 9 million developers, 3 billion phones, 120 million tv sets
+    avaeage salary is $101,929
          * */
         System.out.println("Hello World");
     }
