@@ -44,6 +44,12 @@ public class Main {
     Java card
     Java has 9 million developers, 3 billion phones, 120 million tv sets
     average salary is $101,929
+
+    The course structure is beginner, intermediate, advanced and mastery.
+    fundamentals , types, control flow, clean coding, finding and fixing
+    intermediate will focus on object-oriented programming
+    advanced focus on core java api
+    mastery focused on advanced features
          * */
         System.out.println("Hello World");
     }
